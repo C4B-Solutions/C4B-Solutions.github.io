@@ -1,0 +1,4 @@
+{
+    "isFile" : true,
+    "storageLocation" : "/clever_code/our_roots/M/data/dynamic_data/our_origins_storage.txt"
+}

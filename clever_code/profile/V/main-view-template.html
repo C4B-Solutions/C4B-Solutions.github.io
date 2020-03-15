@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src c4b-solutions.github.io 'unsafe-eval' 'unsafe-inline' https://www.google-analytics.com/analytics.js data:; style-src c4b-solutions.github.io 'unsafe-inline' https://fonts.googleapis.com; font-src c4b-solutions.github.io https://fonts.gstatic.com; img-src c4b-solutions.github.io https://www.google-analytics.com https://jigsaw.w3.org/; connect-src c4b-solutions.github.io; worker-src 'self'; object-src c4b-solutions.github.io" />
+    <meta name="google" content="notranslate" />
+    <meta name="robots" content="index,follow" />
+    <meta name="googlebot" content="index,follow" />
+    <meta name="description"
+        content="Changing 4 Better by Lukasz Dabrowski | Zmieniając na Lepsze wg Łukasz Dąbrowski | Better Philosphy of Mobile Web Development | Better Philosphy of Mobile Web Design" />
+    <title>C4B Solutions | C4B Design | C4B Software | Lukasz Dabrowski - Software Engineer | Łukasz Dąbrowski - Inżynier Oprogramowania | Professional Business Cards - original websites conforming to W3C standard</title>
+    <style>
+        /* here come CSS rules for Above-The-Fold-View */
+        body {
+            visibility: hidden;
+        }
+
+        body::-webkit-scrollbar {
+            background-color: #ffffff;
+
+            cursor: pointer;
+
+            width: 3px;
+        }
+
+        body::-webkit-scrollbar-thumb {
+            background-color: #ffffff;
+
+            border-radius: 10px;
+
+            cursor: pointer;
+
+            width: 3px;
+        }
+
+        .frame::-webkit-scrollbar {
+            background-color: #ffffff;
+
+            cursor: pointer;
+
+            width: 3px;
+        }
+
+        .frame::-webkit-scrollbar-thumb {
+            background-color: #ffffff;
+
+            border-radius: 10px;
+
+            cursor: pointer;
+
+            width: 3px;
+        }
+
+
+        .main {
+            background-color: rgb(156, 16, 11);
+
+            color: white;
+
+            font-family: 'verdana';
+
+            min-height: 750px;
+            max-height: 2100px;
+
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 5px;
+
+            position: relative;
+
+            width: 72%;
+        }
+
+
+        .header {
+            background-color: #C10C06;
+
+            color: white;
+
+            font-size: 1.1em;
+
+            height: 100px;
+
+            margin-left: auto;
+            margin-right: auto;
+
+            position: relative;
+
+            text-align: center;
+
+            width: 100%;
+        }
+
+        .inline-header {
+            display: inline-block;
+        }
+
+        .avatar {
+            background-size: 100% 91px;
+            background-image: url('images/avatar.png');
+            background-repeat: no-repeat;
+
+            border: 1px solid white;
+
+            float: right;
+
+            height: 91px;
+
+            position: relative;
+
+            right: 4px;
+
+            top: 3px;
+
+            width: 65px;
+        }
+
+        .menu {
+            float: left;
+
+            font-size: 1.7em;
+
+            left: 14px;
+
+            position: relative;
+
+            top: 15px;
+        }
+
+        .surname {
+            font-family: 'Raleway', sans-serif;
+
+            position: relative;
+        }
+
+        .jobprofile {
+            float: left;
+
+            font-family: 'Baumans', cursive;
+            font-size: 0.45em;
+
+            left: 0;
+
+            position: relative;
+        }
+
+        .main_page {
+            clear: both;
+
+            float: left;
+
+            font-family: monospace;
+            font-variant: normal;
+            font-size: 0.7em;
+            font-weight: lighter;
+
+            left: 4px;
+
+            position: relative;
+
+            top: 0.4em;
+        }
+
+        .main_page a {
+            color: white;
+
+            letter-spacing: 1px;
+        }
+
+        .main_page a:hover {
+            color: silver;
+
+            text-decoration: none;
+        }
+
+        .initiator {
+            color: whitesmoke;
+
+            float: left;
+
+            font-family: 'Poiret One', sans-serif;
+            font-size: 0.7em;
+
+            left: 13%;
+
+            letter-spacing: 4px;
+
+            position: relative;
+
+            top: 40%;
+        }
+
+
+        .currentTime {
+            background-color: #C10C06;
+
+            color: white;
+
+            float: right;
+
+            font-size: 0.62em;
+
+            padding-bottom: 5px;
+            padding-top: 5px;
+
+            position: relative;
+
+            right: 0.2%;
+
+            text-align: center;
+
+            top: 20px;
+
+            width: 135px;
+        }
+
+        .currentExperienceEpigraph {
+            background-color: rgb(156, 16, 11);
+
+            color: #ffffff;
+
+            float: left;
+
+            font-weight: normal;
+
+            left: 0;
+
+            padding-left: 1.7%;
+
+            position: relative;
+
+            text-align: center;
+
+            top: 2em;
+
+            width: 80%;
+
+            z-index: 1000;
+        }
+
+        .info {
+            background-color: rgb(156, 16, 11);
+
+            box-shadow: 1px 1px 22px khaki;
+
+            color: whitesmoke;
+
+            font-size: 0.8em;
+
+            height: 5em;
+
+            margin-left: auto;
+            margin-right: auto;
+
+            padding-bottom: 3em;
+
+            position: relative;
+
+            text-align: center;
+
+            top: 2em;
+
+            visibility: hidden;
+
+            width: 400px;
+        }
+
+
+        .navigationArrow {
+            height: 25px;
+
+            margin-left: auto;
+            margin-right: auto;
+
+            position: relative;
+
+            text-align: left;
+
+            top: 60px;
+
+            width: 160px;
+        }
+
+        .expandAllCollapseAll {
+            color: white;
+
+            float: right;
+
+            height: 1.8em;
+
+            position: relative;
+
+            right: 105px;
+
+            top: 5px;
+
+            width: 100px;
+        }
+
+        .nav_arrow_down {
+            background-image: url('images/arrow_down.png');
+            background-size: 24px 24px;
+            background-repeat: no-repeat;
+
+            color: transparent;
+
+            float: right;
+
+            height: 26px;
+
+            position: relative;
+
+            width: 25px;
+        }
+
+        .nav_arrow_up {
+            background-image: url('images/arrow_up.png');
+            background-size: 24px 24px;
+            background-repeat: no-repeat;
+
+            color: transparent;
+
+            float: right;
+
+            height: 26px;
+
+            position: relative;
+
+            width: 25px;
+        }
+
+
+        .frame {
+            min-height: 556px;
+            max-height: 1830px;
+
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 27px;
+
+            overflow-y: auto;
+            overflow-x: hidden;
+
+            position: relative;
+
+            top: 80px;
+
+            width: 95%;
+        }
+
+        hr {
+            visibility: hidden;
+        }
+
+        .footer {
+            background-color: #C10C06;
+
+            border: 1px solid #C10C06;
+
+            color: transparent;
+
+            font-size: 0.57em;
+
+            height: 64px;
+
+            margin-left: auto;
+            margin-right: auto;
+
+            position: relative;
+
+            text-align: center;
+
+            width: 99.8%;
+        }
+
+        /* index__footer__f_address */
+        .f_address {
+            font-size: 1.49em;
+
+            margin-left: auto;
+            margin-right: auto;
+
+            position: relative;
+
+            width: 100%;
+        }
+
+        .w3cHtml,
+        .w3cCss {
+            margin-top: 2%;
+        }
+
+        .w3cHtml img,
+        .w3cCss img {
+            height: 2.5em;
+
+            padding-left: 0.1em;
+
+            width: 5.4em;
+        }
+
+        .w3cHtml {
+            float: left;
+
+            left: 1%;
+
+            position: relative;
+        }
+
+        .w3cCss {
+            float: left;
+
+            left: 1%;
+
+            position: relative;
+        }
+
+        .email {
+            float: left;
+
+            font-size: 1.25em;
+
+            left: 30.5%;
+
+            margin-top: 2%;
+
+            position: relative;
+        }
+
+        .email a {
+            color: #ffffff;
+
+            cursor: none;
+
+            text-decoration: line-through;
+        }
+
+        /* .email a:hover {
+            background-color: #ffffff;
+
+            color: rgb(156, 16, 11);
+
+            padding: 3%;
+        } */
+
+        .lastModified {
+            float: right;
+
+            font-size: 1.25em;
+
+            margin-top: 2%;
+
+            position: relative;
+
+            right: 1%;
+        }
+    </style>
+    <link rel="icon" href="/favicon.ico" />
+</head>
+
+<body>
+    <div class="main">
+
+        <div class="header">
+            <div class="inline-header avatar"></div>
+            <div class="inline-header menu">
+                <div class="surname">Łukasz Dąbrowski</div>
+                <div class="jobprofile"></div>
+                <div class="inline-header main_page"><a href="#"> &lt;- </a></div>
+            </div>
+            <div class="inline-header initiator"></div>
+        </div>
+        <div class="currentTime">
+        </div>
+        <div class="currentExperienceEpigraph">
+            <span class="what_i_say_to_do_is"></span>
+        </div>
+        <div class="frame">
+
+            <div class="navigationArrow">
+                <div class="inline expandAllCollapseAll"></div>
+                <div class="inline navigation_slide nav_arrow_down"></div>
+            </div>
+
+            <div class="content">
+
+                <div class="aboutMe">
+                    <div class="legend">about me</div>
+                    <div class="aboutMe_slide arrow_down"></div>
+                    <div class="aboutMe_content">
+                        <div class="aboutMe_div">
+                            <div class="inline label infoAboutMe_label"></div>
+                            <div class="inline descr infoAboutMe_descr"></div>
+
+                            <div class="separator"></div>
+
+                            <div class="inline label infoAboutMyBio_label"></div>
+                            <div class="inline descr">
+                                <span class="aboutMe_MyBio"></span>
+                            </div>
+
+                            <div class="separator"></div>
+
+                            <div class="inline label infoAboutMyHobby_label"></div>
+                            <div class="inline descr infoAboutMyHobby_descr"></div>
+
+                            <div class="separator"></div>
+
+                            <div class="inline label infoAboutMyAchievments_label"></div>
+                            <div class="inline descr infoAboutMyAchievments_descr">
+                                <a class="YT" href="#" target="_blank"></a> |
+                                <a class="npm" href="#" target="_blank"></a> |
+                                <a class="GitHub" href="#" target="_blank"></a> |
+                                <a class="Gitter" href="#" target="_blank"></a>
+                                <!-- <a class="aboutMe_Blog" href="#" target="_self"></a> -->
+                            </div>
+
+                            <div class="separator"></div>
+
+                            <div class="inline label infoAboutMySkype_label"></div>
+                            <div class="inline descr infoAboutMySkype_descr">
+                                <a class="skype_call_me" href="#"></a> |
+                                <a class="skype_chat_with_me" href="#"></a> |
+                                <a class="skype_add_me_to_contacts" href="#"></a> |
+                                <a class="skype_profile" href="#"></a>
+                            </div>
+
+                            <div class="separator"></div>
+
+                            <div class="inline label infoAboutResources_from_Internet_label"></div>
+                            <div class="inline descr">
+                                <a class="aboutMe_ProLinks" href="#" target="_self"></a>
+                            </div>
+
+                            <div class="separator"></div>
+
+                            <div class="inline label infoAboutMy_Developer_Status_label"></div>
+                            <div class="inline descr infoAboutMy_Developer_Status_descr">
+                                <span class="user_supervised" title="Junior developer under supervision."></span>
+                                <span class="user_regular" title="Regular developer with solid knowledge."></span>
+                                <span class="user_senior"
+                                    title="Senior developer with firm &amp;&amp; progressive knowledge."></span>
+                                <span class="user_freelancer"
+                                    title="Freelance developer with trusted knowledge."></span>
+                                <span class="user_verified" title="Verified developer - solver of any problem."></span>
+                                <span class="user_public_speaker"
+                                    title="Public speaker - lecturer, mentor, tech guide."></span>
+                            </div>
+
+                            <div class="separator"></div>
+
+                            <div class="inline label infoAboutMyLifeMotto_label"></div>
+                            <div class="inline descr">
+                                <span class="aboutMe_LifeMotto"></span>
+                            </div>
+
+                            <div class="separator"></div>
+
+                            <div class="inline label infoAboutOurRoots_label"></div>
+                            <div class="inline descr">
+                                <span class="aboutMe_OurRoots"></span>
+                            </div>
+
+                            <div class="separator"></div>
+
+                            <div class="inline label infoAboutOurGallery_label"></div>
+                            <div class="inline descr">
+                                <span class="aboutMe_OurGallery"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="separator"></div>
+
+                <div class="experience">
+                    <div class="legend">experience</div>
+                    <div class="experience_slide arrow_down"></div>
+                    <div class="experience_content">
+                        <div class="it_div">
+                            <div class="inline label experience_IT_label"></div>
+                            <div class="inline descr experience_IT"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="education_div">
+                            <div class="inline label experience_Education_label"></div>
+                            <div class="inline descr experience_Education"></div>
+                        </div>
+
+                        <div class="separator"></div>
+
+                        <div class="offwork_div">
+                            <div class="inline label experience_Offwork_label"></div>
+                            <div class="inline descr experience_Offwork"></div>
+                        </div>
+
+                        <div class="separator"></div>
+
+                        <div class="language_div">
+                            <div class="inline label experience_Language_label"></div>
+                            <div class="inline descr experience_Language"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="separator"></div>
+
+                <div class="currentEmployer">
+                    <div class="legend">[employer]</div>
+                    <div class="currentEmployer_slide arrow_down"></div>
+
+                    <div class="currentEmployer_content">
+                        <div class="employment_status"></div>
+                    </div>
+                </div>
+
+                <div class="separator"></div>
+
+                <div class="history">
+                    <div class="legend">employment</div>
+                    <div class="history_slide arrow_down"></div>
+                    <div class="history_content">
+                        <div class="company_div">
+                            <div class="inline label history_details_company_label"></div>
+                            <div class="inline descr history_details_company_4"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="timePeriod_div">
+                            <div class="inline label history_details_timePeriod_label"></div>
+                            <div class="inline descr history_details_timePeriod_4"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="occupation_div">
+                            <div class="inline label history_details_occupation_label"></div>
+                            <div class="inline descr history_details_occupation_4"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="technology_div">
+                            <div class="inline label history_details_technologies_label"></div>
+                            <div class="inline descr history_details_technologies_4"></div>
+                        </div>
+                        <div class="project_div">
+                            <div class="inline label history_details_projects_label"></div>
+                            <div class="inline descr history_details_projects_4"></div>
+                        </div>
+
+                        <div class="separator"></div>
+                        <hr />
+
+                        <div class="inline label history_details_company_label"></div>
+                        <div class="inline descr history_details_company_3"></div>
+                        <div class="separator"></div>
+                        <div class="timePeriod_div">
+                            <div class="inline label history_details_timePeriod_label"></div>
+                            <div class="inline descr history_details_timePeriod_3"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="occupation_div">
+                            <div class="inline label history_details_occupation_label"></div>
+                            <div class="inline descr history_details_occupation_3"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="technology_div">
+                            <div class="inline label history_details_technologies_label"></div>
+                            <div class="inline descr history_details_technologies_3"></div>
+                        </div>
+                        <div class="project_div">
+                            <div class="inline label history_details_projects_label"></div>
+                            <div class="inline descr history_details_projects_3"></div>
+                        </div>
+
+                        <div class="separator"></div>
+                        <hr />
+
+                        <div class="company_div">
+                            <div class="inline label history_details_company_label"></div>
+                            <div class="inline descr history_details_company_2"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="timePeriod_div">
+                            <div class="inline label history_details_timePeriod_label"></div>
+                            <div class="inline descr history_details_timePeriod_2"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="occupation_div">
+                            <div class="inline label history_details_occupation_label"></div>
+                            <div class="inline descr history_details_occupation_2"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="technology_div">
+                            <div class="inline label history_details_technologies_label"></div>
+                            <div class="inline descr history_details_technologies_2"></div>
+                        </div>
+                        <div class="project_div">
+                            <div class="inline label history_details_projects_label"></div>
+                            <div class="inline descr history_details_projects_2"></div>
+                        </div>
+
+                        <div class="separator"></div>
+                        <hr />
+
+                        <div class="company_div">
+                            <div class="inline label history_details_company_label"></div>
+                            <div class="inline descr history_details_company_1"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="timePeriod_div">
+                            <div class="inline label history_details_timePeriod_label"></div>
+                            <div class="inline descr history_details_timePeriod_1"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="occupation_div">
+                            <div class="inline label history_details_occupation_label"></div>
+                            <div class="inline descr history_details_occupation_1"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="technology_div">
+                            <div class="inline label history_details_technologies_label"></div>
+                            <div class="inline descr history_details_technologies_1"></div>
+                        </div>
+                        <div class="project_div">
+                            <div class="inline label history_details_projects_label"></div>
+                            <div class="inline descr history_details_projects_1"></div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="separator"></div>
+
+                <div class="skills">
+                    <div class="legend">skills</div>
+                    <div class="skills_slide arrow_down"></div>
+                    <div class="skills_content">
+                        <div class="pLanguages">
+                            <div class="inline csharp skills_pLanguages_label_1"></div>
+                            <div class="inline exp skills_pLanguages_1"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="pTechnologies">
+                            <div class="inline tech skills_pTechnologies_label_1"></div>
+                            <div class="inline exp skills_pTechnologies_1"></div>
+                            <div class="inline tech skills_pTechnologies_label_2"></div>
+                            <div class="inline exp skills_pTechnologies_2"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="pFrameworks">
+                            <div class="inline framework skills_pFrameworks_label_1"></div>
+                            <div class="inline exp skills_pFrameworks_1"></div>
+                            <div class="inline framework skills_pFrameworks_label_2"></div>
+                            <div class="inline exp skills_pFrameworks_2"></div>
+                            <div class="inline framework skills_pFrameworks_label_3"></div>
+                            <div class="inline exp skills_pFrameworks_3"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="pDatabases">
+                            <div class="inline mssql skills_pDatabases_label_1"></div>
+                            <div class="inline exp skills_pDatabases_1"></div>
+                            <div class="inline mssql skills_pDatabases_label_2"></div>
+                            <div class="inline exp skills_pDatabases_2"></div>
+                            <div class="inline mssql skills_pDatabases_label_3"></div>
+                            <div class="inline exp skills_pDatabases_3"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="pTools">
+                            <div class="inline tools skills_pTools_label_1"></div>
+                            <div class="inline exp skills_pTools_1"></div>
+                            <div class="inline tools skills_pTools_label_2"></div>
+                            <div class="inline exp skills_pTools_2"></div>
+                            <div class="inline tools skills_pTools_label_3"></div>
+                            <div class="inline exp skills_pTools_3"></div>
+                            <div class="inline tools skills_pTools_label_4"></div>
+                            <div class="inline exp skills_pTools_4"></div>
+                            <div class="inline tools skills_pTools_label_5"></div>
+                            <div class="inline exp skills_pTools_5"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="pVersionControlSystems">
+                            <div class="inline vcs skills_pVersionControlSystems_label_1"></div>
+                            <div class="inline exp skills_pVersionControlSystems_1"></div>
+                            <div class="inline vcs skills_pVersionControlSystems_label_2"></div>
+                            <div class="inline exp skills_pVersionControlSystems_2"></div>
+                        </div>
+                        <div class="separator"></div>
+                        <div class="pPendingStuff">
+                            <div class="inline itStuff skills_pPendingStuff_label_1"></div>
+                            <div class="inline exp skills_pPendingStuff_1"></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="footer">
+            <div class="f_address">
+                <div class="inline w3cHtml"><img class="f_address_HTML" src="#" alt="" /></div>
+                <div class="inline w3cCss"><img class="f_address_CSS" src="#" alt="" /></div>
+                <div class="inline email"></div>
+                <div class="inline lastModified"></div>
+            </div>
+        </div>
+
+    </div>
+    <script defer src="../C/js_workers/internal/seo/my-google-analytics.min.js"></script>
+</body>
+
+</html>

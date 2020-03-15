@@ -1,0 +1,10 @@
+{
+<a class="it_pro_expl_url" href="https://developer.microsoft.com/en-us/microsoft-edge/platform/status/" target="_blank">Edge Platform Status</a>
+<br />
+<a class="it_pro_expl_url" href="https://platform-status.mozilla.org/" target="_blank">Firefox Platform Status</a>
+<br />
+<a class="it_pro_expl_url" href="https://www.chromestatus.com/features/schedule" target="_blank">Chrome Platform Status</a>
+<br />
+<a class="it_pro_expl_url" href="https://webkit.org/status/" target="_blank">WebKit Feature Status</a>
+06-february-2017 13:51:00 GMT +0100
+}

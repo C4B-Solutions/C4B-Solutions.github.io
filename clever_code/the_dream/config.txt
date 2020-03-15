@@ -1,0 +1,4 @@
+{
+    "isFile" : true,
+    "storageLocation" : "/clever_code/the_dream/M/data/dynamic_data/the_dream_storage.txt"
+}

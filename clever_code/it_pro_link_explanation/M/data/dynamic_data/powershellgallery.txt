@@ -1,0 +1,4 @@
+{
+"The PowerShell Gallery is the central repository for PowerShell content. You can find new PowerShell commands or Desired State Configuration (DSC) resources in the Gallery."
+17-october-2017 14:17:00 GMT +0100
+}

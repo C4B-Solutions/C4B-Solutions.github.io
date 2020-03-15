@@ -1,0 +1,4 @@
+{
+    "isFile" : true,
+    "storageLocation" : "/clever_code/bio/M/data/dynamic_data/bio_storage.txt"
+}

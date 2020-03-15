@@ -1,0 +1,5 @@
+{
+This site is dedicated to improving the profession of software development,
+with a focus on skills and techniques that will last a developer for most of their career.
+07-november-2017 14:44:00 GMT +0100
+}

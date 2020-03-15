@@ -1,0 +1,4 @@
+{
+"The free and open-source tutorial to learn all around GraphQL to go from zero to production."
+02-october-2017 23:06:00 GMT +0100
+}

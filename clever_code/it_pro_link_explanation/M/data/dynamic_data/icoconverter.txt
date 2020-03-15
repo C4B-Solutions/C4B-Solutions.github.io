@@ -1,0 +1,5 @@
+{
+"ICO converter is a simple online .ico image converter.
+It will take any image and convert it to ICO file, for web site favicon or Windows applications."
+08-july-2018 07:48:00 GMT +0000
+}

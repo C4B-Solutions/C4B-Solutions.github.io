@@ -1,0 +1,5 @@
+{
+This is proffesional platform for proffesional full & mobile websites testing.
+Please download this [ <a class="it_pro_expl_url clip" href="#" onclick="jsUtilities.downloadResource('../M/data/dynamic_data/clips/browserstack.mp4')">BrowserStack clip</a> ] to see what I mean.
+21-december-2018 13:59:00 GMT +0000
+}

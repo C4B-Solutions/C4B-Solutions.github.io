@@ -1,0 +1,4 @@
+{
+This site lets you obtain SSL certificate for your domain for free :-). XVHOST - host provider of my domain uses Let’s Encrypt.
+13-september-2017 17:49:00 GMT +0100
+}

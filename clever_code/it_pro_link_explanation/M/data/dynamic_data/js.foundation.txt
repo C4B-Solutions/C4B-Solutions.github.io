@@ -1,0 +1,5 @@
+{
+"The JS Foundation supports some of the most important projects in the JavaScript ecosystem.
+We are a growing community of projects and organizations promoting collaboration throughout the JavaScript landscape, ensuring the continuity necessary for the long-term success of open source projects."
+13-september-2017 18:34:00 GMT +0100
+}

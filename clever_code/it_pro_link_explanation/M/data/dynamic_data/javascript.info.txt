@@ -1,0 +1,4 @@
+{
+"How it's done now. From the basics to advanced topics with simple, but detailed explanations.".
+20-december-2017 12:37:00 GMT +0100
+}

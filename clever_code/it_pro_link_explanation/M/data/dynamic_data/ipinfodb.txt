@@ -1,0 +1,6 @@
+{
+"The IPInfoDB.com has a goal of providing high-quality geolocation service to all users for free.
+For your information, our servers are currently running in almost full capacity.
+Thousands of new users sign-up every month since 2010."
+17-october-2017 14:28:00 GMT +0100
+}

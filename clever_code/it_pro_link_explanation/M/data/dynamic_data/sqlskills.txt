@@ -1,0 +1,5 @@
+{
+"SQLskills is powered by Paul S. Randal and Kimberly L. Tripp, two of the world’s most renowned SQL Server experts.
+Our team is dedicated to providing the highest quality and most in-depth training and consulting in the market."
+09-november-2017 13:08:00 GMT +0100
+}

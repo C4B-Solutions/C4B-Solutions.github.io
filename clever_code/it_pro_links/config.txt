@@ -1,0 +1,4 @@
+{
+    "isFile" : true,
+    "storageLocation" : "/clever_code/it_pro_links/M/data/dynamic_data/pro_links.html"
+}

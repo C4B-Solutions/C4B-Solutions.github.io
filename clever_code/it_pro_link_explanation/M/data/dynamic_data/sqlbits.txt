@@ -1,0 +1,5 @@
+{
+"SQLBits provides the education, skills and solutions from the people that have created the products, and are leading the field worldwide.
+This is your chance to meet the guys that design and build the Microsoft products."
+31-october-2017 12:11:00 GMT +0100
+}

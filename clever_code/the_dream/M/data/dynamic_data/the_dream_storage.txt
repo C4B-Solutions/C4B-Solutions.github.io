@@ -1,0 +1,61 @@
+{
+<span class="titleBeginingMarker">>> </span>[core design decision: South & Upper Poland Vision of Better Software]...
+I do believe this will be the engine for driving the IT change!
+Let's Change IT &#10071;
+13-september-2017 00:38:00 GMT +0000
+},
+{
+<span class="titleBeginingMarker">>> </span>[core idea: bringing empathy into IT]...
+On 5th of April I understood that I achieved a success.
+On 5th of April I also understood that I do not need more than that.
+Therefore I immediately turned to other people trying to help them achieve the same success.
+On that day I understood that I acquired necessary tools and resources that allow me to pursue that goal.
+18-september-2017 07:22:00 GMT +0000
+},
+{
+<span class="titleBeginingMarker">>> </span>[the philosophy: brand new name, vision]...
+If you remember these names I came up with in the past, then you could understood what was on my mind.
+Mainly, it is fair to say that this Polish-Ukrainian Outsorcing Forum that took place in Rzeszow on 22 of November is the type of things I was thinking about :-)
+Now I have much better and real proposition in this context.
+Therefore what is slowly - but positively not negatively - happening in IT in Poland could be called
+<span class="official_description">Projekt Lepsza Informatyka / Project Better IT</span>
+I see the potential here in South && Upper Poland and good climate for valuable software development.
+I see this part of my country as the kind of bridge or proxy between two valuable regions,
+i.e. Germany and Ukraine, where Wroclaw and Rzeszow are the best endpoints, if you like, through which all communication can be exchanged.
+It is kind of a way to show that we have good infrastructure there, and everybody keen on developing professional software that can assist people in their daily lives, can come and work together with us and we with them.
+Honestly, I do believe that we can create something really cool here, as I said a couple of months ago ;-).
+I am super excited that this is just the beginning of better things in Poland, because everything will be developed in my country, everything valuable for Poland, of course !
+26-november-2018 13:05:00 GMT +0000
+},
+{
+<span class="titleBeginingMarker">>> </span>[the progress: phase 1 completed, phase 2 in progress]...
+Last year was more about rising awerness and doing some - using informal words  - kind of cleaning the necessary mess.
+This year and time required after that will be about building foundation for better software.
+As many already recognised, it is rather a long-term process than short-term one :-).
+But what is now is already better than what was even 18 months ago, isn't it ?
+At that time many people were rather sure I was crazy saying what was coming, now the same people are completely frustrated that I haven't gone crazy!
+And that is the success of many people already and mine as well. But it is still a dawn of this long process!
+16-january-2018 20:22:00 GMT +0000
+},
+{
+<span class="titleBeginingMarker">>> </span>[the progress: towards closing a phase 2]...
+Clearing up the mess is almost finished, as is done the future of many "architects" and "senior developers".
+Now there is time for some rest and get ready to hit the ground running !
+I urge everybody to refrain from putting themselves to think I can be neglected. I cannot be.
+14-july-2018 13:10:00 GMT +0000
+},
+{
+<span class="titleBeginingMarker">>> </span>[the progress: phase 2 completed]...
+The phase 2 I understand is completed !
+26-november-2018 13:07:00 GMT +0000
+},
+{
+<span class="titleBeginingMarker">>> </span>[the real work: phase 3 started]...
+Let's start doing the valuable things !
+Following some inspiration I drew from our government's one of the projects, I believe that doing something is much better than talking about it.
+Simply put it, let's build something native !
+Let's simply build Better IT in Poland.
+2019 has come !
+Zaczynamy <span class="official_description">Projekt Lepsza Informatyka !</span>
+14-january-2019 15:49:00 GMT +0000
+}

@@ -1,0 +1,7 @@
+{
+This is very professional tool for assessing performance of your website.
+It provides details about every aspect of loading a website in a browser, f.e. TTFB (Time To First Byte), percentage of memory used for every type of resource,
+number of miliseconds elapsed for every type of resource to load, number of TCP requests per any given event, f.e. onload vs DOMContentLoaded, and various hints how to optimize your site.
+These are just examples of what report you get about performance of your website.
+08-december-2017 13:02:00 GMT +0100
+}

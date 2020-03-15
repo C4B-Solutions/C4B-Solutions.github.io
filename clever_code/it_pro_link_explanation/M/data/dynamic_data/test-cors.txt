@@ -1,0 +1,4 @@
+{
+"Use this page to test CORS requests."
+08-july-2018 07:47:00 GMT +0000
+}

@@ -1,0 +1,4 @@
+{
+In simple words - what it takes to use this or that JS library in terms of performance and application responsiveness !
+28-august-2018 08:36:00 GMT +0000
+}

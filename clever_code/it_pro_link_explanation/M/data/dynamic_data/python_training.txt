@@ -1,0 +1,10 @@
+{
+<a class="it_pro_expl_url" href="https://www.python-course.eu/" target="_blank">Python Course</a>
+<br />
+<a class="it_pro_expl_url" href="https://pythonprogramming.net/" target="_blank">Python programming</a>
+<br />
+<a class="it_pro_expl_url" href="http://www.pycon.org/" target="_blank">Connecting The Python Community</a>
+<br />
+<a class="it_pro_expl_url" href="http://tpq.io/" target="_blank">THE PYTHON QUANTS GROUP</a>
+27-april-2018 11:19:00 GMT +0100
+}

@@ -1,0 +1,6 @@
+{
+This site allows for easy checking what's available in the context of web development, i.e.
+whether browsers support the hottest W3C features, what's new in XMLHttpRequest among many many other features.
+The orange panel starting with "Can I use ...  ?" is simply a search box. 
+20-december-2017 12:43:00 GMT +0100
+}

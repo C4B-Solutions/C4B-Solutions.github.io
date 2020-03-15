@@ -1,0 +1,78 @@
+{
+    "rootPath" : "/clever_code/our_roots/C/js_workers/internal/maps/",
+    "maps_deps" : [".maps_deps/wcu-event-binder-dispatcher.min.js", ".maps_deps/wcu-flat-file-loader.min.js"],
+    "providers" : {
+        "google" : {
+            "isRequired" : false,
+            "relativePath" : "providers/google/",
+            "providerLibrary" : "google-maps-map-driver.min.js",
+            "dependencies" : {
+                "areRequired" : "true",
+                "relativePath" : ".deps/",
+                "dependencyBundlerLibrary" : "bundlers/wcu-resource-bundler.min.js",
+                "css" : {
+                    "internal" : ["css/alertify.min.css"],
+                    "external" : [],
+                    "processOrder" : "ASC",
+                    "bundler" : {
+                        "bundleThem" : "false",
+                        "bundleTag" : "style"
+                    },
+                    "waitForLoad" : false,
+                    "notificationEvent" : "GoogleMapsCSS"
+                },
+                "js" : {
+                    "internal" : ["js/alertify.min.js"],
+                    "external" : [
+                                    "https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.5.5/bluebird.min.js",
+                                    "https://maps.googleapis.com/maps/api/js?key=AIzaSyCX6sOmc0pB1b1oRQonJjVYw_z83MR2nFA&callback=userWebsiteMapLoader.Functions.redirect"
+                                 ],
+                    "processOrder" : "ASC",
+                    "bundler" : {
+                        "bundleThem" : "false",
+                        "bundleTag" : "script"
+                    },
+                    "waitForLoad" : true,
+                    "notificationEvent" : "GoogleMapsJS"
+                }
+            }
+        },
+        "leaflet" : {
+            "isRequired" : true,
+            "relativePath" : "providers/leaflet/",
+            "providerLibrary" : "leaflet-map-driver.min.js",
+            "dependencies" : {
+                "areRequired" : "true",
+                "relativePath" : ".deps/",
+                "dependencyBundlerLibrary" : "bundlers/wcu-resource-bundler.min.js",
+                "css" : {
+                    "internal" : ["css/alertify.min.css", "css/leaflet-map-controls-look-and-feel.min.css"],
+                    "external" : ["https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css"],
+                    "processOrder" : "DESC",
+                    "bundler" : {
+                        "bundleThem" : "false",
+                        "bundleTag" : "style"
+                    },
+                    "waitForLoad" : true,
+                    "notificationEvent" : "LeafletCSS"
+                },
+                "js" : {
+                    "internal" : ["js/alertify.min.js"],
+                    "external" : [
+								    "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet-src.js",
+									"https://cdnjs.cloudflare.com/ajax/libs/esri-leaflet/2.2.4/esri-leaflet.js",
+									"https://cdnjs.cloudflare.com/ajax/libs/esri-leaflet-geocoder/2.2.14/esri-leaflet-geocoder.js",
+                                    "https://raw.githubusercontent.com/maximeh/leaflet.bouncemarker/master/bouncemarker.js"
+                                 ],
+                    "processOrder" : "ASC",
+                    "bundler" : {
+                        "bundleThem" : "true",
+                        "bundleTag" : "script"
+                    },
+                    "waitForLoad" : true,
+                    "notificationEvent" : "LeafletJS"
+                }
+            }
+        }
+    }
+}

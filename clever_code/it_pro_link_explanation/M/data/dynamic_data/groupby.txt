@@ -1,0 +1,4 @@
+{
+"GroupBy is database training by the community, for the community."
+31-october-2017 12:13:00 GMT +0100
+}

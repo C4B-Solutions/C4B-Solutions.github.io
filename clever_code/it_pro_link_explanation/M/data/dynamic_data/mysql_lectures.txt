@@ -1,0 +1,12 @@
+{
+These are very good lectures on MySQL. I do recommend watching them in the below mentioned order.
+<br />
+<a class="it_pro_expl_url" href="https://www.youtube.com/playlist?list=PL_c9BZzLwBRKHaa-qY7N-bmZYLPx3RYVB" target="_blank">1. MySQL Complete Series</a>
+<br />
+<a class="it_pro_expl_url" href="https://www.youtube.com/playlist?list=PL_c9BZzLwBRI8Tv6o6AralPWFmQr0GShn" target="_blank">2. MySQL Stored Procedures and Functions</a>
+<br />
+<a class="it_pro_expl_url" href="https://www.youtube.com/playlist?list=PL405B31DD586979DE" target="_blank">3. MySQL Data Types</a>
+<br />
+<a class="it_pro_expl_url" href="https://www.youtube.com/playlist?list=PL_c9BZzLwBRKn20DFbNeLAAbw4ZMTlZPH" target="_blank">4. MySQL 2017</a>
+23-march-2017 13:44:00 GMT +0100
+}
