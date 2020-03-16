@@ -1,6 +1,6 @@
 {
     "rootPath" : "/clever_code/our_roots/C/js_workers/internal/maps/",
-    "maps_deps" : [".maps_deps/wcu-event-binder-dispatcher.min.js", ".maps_deps/wcu-flat-file-loader.min.js"],
+    "maps_deps" : ["maps_deps/wcu-event-binder-dispatcher.min.js", "maps_deps/wcu-flat-file-loader.min.js"],
     "providers" : {
         "google" : {
             "isRequired" : false,
