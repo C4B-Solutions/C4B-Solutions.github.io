@@ -8,7 +8,7 @@
             "providerLibrary" : "google-maps-map-driver.min.js",
             "dependencies" : {
                 "areRequired" : "true",
-                "relativePath" : ".deps/",
+                "relativePath" : "deps/",
                 "dependencyBundlerLibrary" : "bundlers/wcu-resource-bundler.min.js",
                 "css" : {
                     "internal" : ["css/alertify.min.css"],
@@ -43,7 +43,7 @@
             "providerLibrary" : "leaflet-map-driver.min.js",
             "dependencies" : {
                 "areRequired" : "true",
-                "relativePath" : ".deps/",
+                "relativePath" : "deps/",
                 "dependencyBundlerLibrary" : "bundlers/wcu-resource-bundler.min.js",
                 "css" : {
                     "internal" : ["css/alertify.min.css", "css/leaflet-map-controls-look-and-feel.min.css"],
