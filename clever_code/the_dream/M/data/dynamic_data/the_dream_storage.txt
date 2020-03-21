@@ -2,7 +2,7 @@
 <span class="titleBeginingMarker">>> </span>[core design decision: South & Upper Poland Vision of Better Software]...
 I do believe this will be the engine for driving the IT change!
 Let's Change IT &#10071;
-13-september-2017 00:38:00 GMT +0000
+13-september-2017 00:38 GMT +0000
 },
 {
 <span class="titleBeginingMarker">>> </span>[core idea: bringing empathy into IT]...
@@ -10,7 +10,7 @@ On 5th of April I understood that I achieved a success.
 On 5th of April I also understood that I do not need more than that.
 Therefore I immediately turned to other people trying to help them achieve the same success.
 On that day I understood that I acquired necessary tools and resources that allow me to pursue that goal.
-18-september-2017 07:22:00 GMT +0000
+18-september-2017 07:22 GMT +0000
 },
 {
 <span class="titleBeginingMarker">>> </span>[the philosophy: brand new name, vision]...
@@ -25,7 +25,7 @@ i.e. Germany and Ukraine, where Wroclaw and Rzeszow are the best endpoints, if y
 It is kind of a way to show that we have good infrastructure there, and everybody keen on developing professional software that can assist people in their daily lives, can come and work together with us and we with them.
 Honestly, I do believe that we can create something really cool here, as I said a couple of months ago ;-).
 I am super excited that this is just the beginning of better things in Poland, because everything will be developed in my country, everything valuable for Poland, of course !
-26-november-2018 13:05:00 GMT +0000
+26-november-2018 1:05 PM GMT +0000
 },
 {
 <span class="titleBeginingMarker">>> </span>[the progress: phase 1 completed, phase 2 in progress]...
@@ -35,14 +35,14 @@ As many already recognised, it is rather a long-term process than short-term one
 But what is now is already better than what was even 18 months ago, isn't it ?
 At that time many people were rather sure I was crazy saying what was coming, now the same people are completely frustrated that I haven't gone crazy!
 And that is the success of many people already and mine as well. But it is still a dawn of this long process!
-16-january-2018 20:22:00 GMT +0000
+16-january-2018 8:22 PM GMT +0000
 },
 {
 <span class="titleBeginingMarker">>> </span>[the progress: towards closing a phase 2]...
 Clearing up the mess is almost finished, as is done the future of many "architects" and "senior developers".
 Now there is time for some rest and get ready to hit the ground running !
 I urge everybody to refrain from putting themselves to think I can be neglected. I cannot be.
-14-july-2018 13:10:00 GMT +0000
+14-july-2018 1:10 PM GMT +0000
 },
 {
 <span class="titleBeginingMarker">>> </span>[the progress: phase 2 completed]...
@@ -57,5 +57,22 @@ Simply put it, let's build something native !
 Let's simply build Better IT in Poland.
 2019 has come !
 Zaczynamy <span class="official_description">Projekt Lepsza Informatyka !</span>
-14-january-2019 15:49:00 GMT +0000
+14-january-2019 3:49 PM GMT +0000
+},
+{
+<span class="titleBeginingMarker">>> </span>[the real work: co dla kogo !]...
+Prawdziwa Lepsza Informatyka rozpocznie się w Polsce na przełomie 2026/2027.
+Do tego czasu osoby o których wspomniałem w wakacje 2017 (posiadający 1-2 lata PRAKTYCZNEGO doświadczenia w programowaniu), potrzebują nabyć odpowiedniego sposobu myślenia o tym, czym jest prawdziwa informatyka i na czym polega prawdziwe programowanie !
+Tak jak ja potrzebowałem 9-10, a może i 11-stu lat na nabycie takiego doświadczenia programistycznego, jakie posiadam na dzień dzisiejszy.
+Co do pozostałych osób z branży IT, no cóż, jesteście Państwo zwykłymi mówiąc kolokwialnie "pospolitymi zjadaczami chleba".
+Cechuje Państwa brak praktycznej wiedzy programistycznej, niebywała arogancja w stosunku do mojej skromnej osoby, jak również trudna do zrozumienia głupota życiowa determinująca Państwa codzienne myślenie.
+Proszę nie ulegać iluzji, iż nie wiem co piszczy w branży, gdyż wiem doskonale z tygodnia na tydzień.
+Meritum powyższej wypowiedzi jest takie a nie inne, a mianowicie, im szybciej dacie sobie niepoważni Państwo spokój z pracą w branży IT, tym lepiej dla wszystkich dookoła, jak również i dla Państwa !
+21-march-2020 1:23 PM GMT +0000
+},
+{
+<span class="titleBeginingMarker">>> </span>[the real work: co to urlop w branży IT ?]...
+Jest to okres 2 tygodni roboczych, które pracodawca ma obowiązek udzielić pracownikowi jako czas wolny od pracy !
+Np. ostatni tydzień listopada + pierwszy tydzień grudnia ! (ponieważ klient wraca z miesięcznych całolipcowych wakacji na Seszelach i chce dostać projekt w wersji GA).
+21-march-2020 1:43 PM GMT +0000
 }
