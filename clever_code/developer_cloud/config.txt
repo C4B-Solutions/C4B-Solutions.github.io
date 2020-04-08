@@ -1,4 +1,0 @@
-{
-    "isFile" : true,
-    "storageLocation" : "/clever_code/developer_cloud/M/data/dynamic_data/developer_cloud_structure.html"
-}

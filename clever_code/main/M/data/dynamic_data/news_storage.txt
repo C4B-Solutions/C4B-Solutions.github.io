@@ -23,11 +23,11 @@ The volume of poems will be available for purchase in the [url: https://www.empi
 2020-03-16 ; 30
 We would like to officially confirm that we as the family purchased the following 3 residences:
 [enter: ;][enter: ;]
-[space: 5; ]- White Residence in Majorca (Residencia Blanca Mallorca) worth[space: 2; ] €[space: 1; ][single-line: 50M; ]
+[space: 5; ]- White Residence in Majorca (Residencia Blanca Mallorca) worth[space: 2; ] [emot: fas fa-euro-sign; our_color][space: 1; ][single-line: 50M; ]
 [enter: ;][enter: ;]
-[space: 5; ]- Sandy Residence in Palm Jumeirah (ساندي ريزيدنس في نخلة جميرا) worth[space: 2; ] €[space: 1; ][single-line: 200M; ]
+[space: 5; ]- Sandy Residence in Palm Jumeirah (ساندي ريزيدنس في نخلة جميرا) worth[space: 2; ] [emot: fas fa-euro-sign; our_color][space: 1; ][single-line: 200M; ]
 [enter: ;][enter: ;]
-[space: 5; ]- Big Apple Residence in New York City (Jabłkowa Rezydencja w Nowym Jorku) worth[space: 2; ] $[space: 1; ][single-line: 266,2M; ]
+[space: 5; ]- Big Apple Residence in New York City (Jabłkowa Rezydencja w Nowym Jorku) worth[space: 2; ] [emot: fas fa-dollar-sign; our_color][space: 1; ][single-line: 266,2M; ]
 },{
 2020-03-16; 25
 Further regarding this our-coined Akemi'n'Akihide we would like to share with anybody interested how I feel about this how-much-symbolic symbol of being together.
