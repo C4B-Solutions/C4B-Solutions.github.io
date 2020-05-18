@@ -1,4 +1,32 @@
 {
+2020-05-18 ; 37
+Angelica's tattoo - on the left wrist of its inner part[space: 3;][emot: far fa-copyright;]
+[enter: ;][enter: ;]
+[space: 1;][emot: fas fa-ellipsis-h; our_color]
+[enter: ;]
+[space: 7;]英英
+[enter: ;]
+[space: 7;]mio grande amore
+[enter: ;]
+[space: 7; ]Mon Luc, mon amour, je t'aime beaucoup !
+[enter: ;]
+[space: 73; ][emot: fas fa-ellipsis-h; our_color]
+[enter: ;]
+},{
+2020-05-18 ; 37
+Lucas' tattoo - on the left wrist of its inner part[space: 3;][emot: far fa-copyright;]
+[enter: ;][enter: ;]
+[space: 1;][emot: fas fa-ellipsis-h; our_color]
+[enter: ;]
+[space: 7;]明美
+[enter: ;]
+[space: 7;]mio grande amore
+[enter: ;]
+[space: 7;]Mon Angélique, mon amour, je t'aime beaucoup !
+[enter: ;]
+[space: 83; ][emot: fas fa-ellipsis-h; our_color]
+[enter: ;]
+},{
 2020-05-17 ; 37
 Moje związki :
 [enter: ;]
