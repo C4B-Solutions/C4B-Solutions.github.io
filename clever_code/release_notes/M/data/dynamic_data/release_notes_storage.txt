@@ -1,4 +1,5 @@
 {
+ [v24.4.0]: [laying out the future]
  [v24.1.0/v24.3.0, v24.2.0]: [adding news section enhancements and M-2020 Program feature, KB]
  [v24.0.0]: [new look && feel, code enhancements - structure && performance]
  [v23.3.1]: [release notes - supported browsers. Credit to [ https://fontawesome.com/ ]. License: https://fontawesome.com/license]
