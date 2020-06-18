@@ -4,7 +4,7 @@ Beata (Betty); Dębno, Ożarów County, Świętokrzyskie Voivodeship, Poland; Be
 Tosia (Tony); Dębno, Ożarów County, Świętokrzyskie Voivodeship, Poland; Tony.png;
 },
 {
-Here is the family home of my chosen one - Angelica.;Bemowo, Warszawa, Mazowieckie;
+Here is the family home of my chosen one - Angelica.<br />My Love, My Desire, My Faith.;Bemowo, Warszawa, Mazowieckie;
 Andżelika (Angelica); Bemowo, Masovian Voivodeship, Poland; Angelica.png;
 },
 {
