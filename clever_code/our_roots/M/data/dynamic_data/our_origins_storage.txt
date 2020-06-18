@@ -5,7 +5,7 @@ Tosia (Tony); Dębno, Ożarów County, Świętokrzyskie Voivodeship, Poland; Ton
 },
 {
 Here is the family home of my chosen one - Angelica.;Bemowo, Warszawa, Mazowieckie;
-Andżelika (Angelica); Bemowo, Masovian Voivodeship, Poland; Angelica_silhouette.png;
+Andżelika (Angelica); Bemowo, Masovian Voivodeship, Poland; Angelica.png;
 },
 {
 Here is my family home.;Janów 6, 27-350 Sienno, Mazowieckie;
