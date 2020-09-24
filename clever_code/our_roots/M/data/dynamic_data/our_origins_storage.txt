@@ -3,7 +3,7 @@ Here is the family home of Beata, the mum of Tosia !<br />Tosia is registered he
 Tosia (Antonina); Dębno, Ożarów County, Świętokrzyskie Voivodeship, Poland; Tony.png;
 },
 {
-Here is the family home of Angelica.<br />Jedno zdanie o mnie - Dziękuję.;Bemowo, Warszawa, Mazowieckie;
+Here is the family home of Angelica.<br />Jedno zdanie o mnie świadczy o Twojej klasie!. Dziękuję.;Bemowo, Warszawa, Mazowieckie;
 Andżelika (Angelica); Bemowo, Masovian Voivodeship, Poland; Angelica.png;
 },
 {
