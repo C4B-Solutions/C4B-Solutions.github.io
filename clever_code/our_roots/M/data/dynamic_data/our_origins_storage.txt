@@ -7,6 +7,6 @@ Here is the family home of Angelica.<br />Jedno zdanie o mnie świadczy o Twojej
 Andżelika (Angelica); Bemowo, Masovian Voivodeship, Poland; Angelica.png;
 },
 {
-Here is my family home.;Janów 6, 27-350 Sienno, Mazowieckie;
+Here is the family home of my parents.<br />I have just dropped by for a while to grasp some things.;Janów 6, 27-350 Sienno, Mazowieckie;
 Łukasz (Lucas); Janów, Lipsko County, Masovian Voivodeship, Poland; Lucas.png;
 }
