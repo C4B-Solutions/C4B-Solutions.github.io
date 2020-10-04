@@ -1,4 +1,18 @@
 {
+2020-10-04;8
+The beginning of us.... a tale of [url: https://drive.google.com/file/d/1Yq2KAKFz_YOtC5y0YYkudyXFUZ2sewCf/view?usp=sharing; two hearts] [emot: fas fa-heart; our_color][emot: fas fa-heart; our_color].
+[enter: ;]
+[enter: ;]
+/*
+[enter: ;]
+[space: 3;]Nasz związek opiera się na wzajemnym zrozumieniu, zaufaniu i szacunku do siebie nawzajem.
+[enter: ;]
+[space: 3;]Bardzo trudno jest być osobno, ale razem!
+[enter: ;]
+[space: 3;]Natomiast wg nas bycie razem ale osobno nie ma najmniejszego sensu.
+[enter: ;]
+*/
+},{
 2020-09-30;30
 Chcielibyśmy polecić cztery sprawdzone książki - w takiej kolejności - do nauki języka hiszpańskiego,
 [enter: ;]
