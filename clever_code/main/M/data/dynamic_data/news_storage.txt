@@ -1,4 +1,18 @@
 {
+2020-10-14;2
+Krótko i na temat:
+[enter: ;]
+[enter: ;]
+[space: 3;]Referendum ws. odwołania Pana Andrzeja Dudy z urzędu Prezydenta RP ?
+[enter: ;]
+[enter: ;]
+[space: 3;]Popieramy i jesteśmy za ! ✍️ 👍
+[enter: ;]
+[space: 3;] // Polska - jako naród - powinna się rozwijać równomiernie bez względu na przekonania !
+[enter: ;]
+[space: 3;] // Polska - jako gospodarka - powinna traktować równomiernie wszystkie branże bez względu na przekonania społeczne !
+[enter: ;]
+},{
 2020-10-12;23
 Congrats for the whole [url: https://twitter.com/lakers; LA Lakers] team securing their 17th Title as NBA Champs !,
 [enter: ;]
