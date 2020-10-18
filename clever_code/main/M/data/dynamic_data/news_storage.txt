@@ -12,7 +12,7 @@ Learning Spanish - we recommend these FREE online resources for self-learning Sp
 [space: 3;]b. [url: https://www.youtube.com/watch?v=Q0TAj7aClqc; Learn Spanish 24/7] with SpanishPod101 TV[space: 1;] | [space: 1;][url: https://www.youtube.com/c/spanishpod101/playlists; Playlists]
 [enter: ;]
 [enter: ;]
-Yes, we do learn Spanish in [url: https://github.com/C4B-Solutions/The-Family-Blog-Official/blob/master/family/posts/1.bio_of_Angelica.md#who-is-angelica-; English] from these resources [emot: fas fa-heart; our_color][emot: fas fa-heart; our_color].
+// Yes, we do learn Spanish in [url: https://github.com/C4B-Solutions/The-Family-Blog-Official/blob/master/family/posts/1.bio_of_Angelica.md#who-is-angelica-; English] from these resources [emot: fas fa-heart; our_color][emot: fas fa-heart; our_color].
 },{
 2020-10-14;2
 Krótko i na temat:
