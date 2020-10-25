@@ -1,4 +1,15 @@
 {
+2020-10-25;7
+[enter: ;]
+[space: 15;]#77,760,000[space: 1;][emot: fas fa-heart; our_color][space: 1;]#1,250,100[space: 2;]=>[space: 2;]The blink of the diamond.
+[enter: ;]
+[enter: ;]
+[space: 13;][space: 3;][url: https://drive.google.com/file/d/1EgpL2CRI70d6IPaPeH3bMmLXZwxUDXSS/view?usp=sharing; The blossoms] are for You, Love !.
+[enter: ;]
+[enter: ;]
+[space: 15;]// Czym zatem jest [url: https://www.pocztakwiatowa.pl/kwiaty/milosc; miłość] w naszym wydaniu ?
+[enter: ;]
+},{
 2020-10-18;30
 Learning Spanish - we recommend these FREE online resources for self-learning Spanish online !
 [enter: ;]
@@ -12,7 +23,7 @@ Learning Spanish - we recommend these FREE online resources for self-learning Sp
 [space: 3;]b. [url: https://www.youtube.com/watch?v=Q0TAj7aClqc; Learn Spanish 24/7] with SpanishPod101 TV[space: 1;] | [space: 1;][url: https://www.youtube.com/c/spanishpod101/playlists; Playlists]
 [enter: ;]
 [enter: ;]
-// Yes, we do learn Spanish in [url: https://github.com/C4B-Solutions/The-Family-Blog-Official/blob/master/family/posts/1.bio_of_Angelica.md#who-is-angelica-; English] from these resources [emot: fas fa-heart; our_color][emot: fas fa-heart; our_color].
+Yes, we do learn Spanish in [url: https://github.com/C4B-Solutions/The-Family-Blog-Official/blob/master/family/posts/1.bio_of_Angelica.md#who-is-angelica-; English] from these resources [emot: fas fa-heart; our_color][emot: fas fa-heart; our_color].
 },{
 2020-10-14;2
 Krótko i na temat:
