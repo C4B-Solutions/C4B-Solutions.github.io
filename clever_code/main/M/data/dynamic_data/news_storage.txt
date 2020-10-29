@@ -1,4 +1,10 @@
 {
+2020-10-30;30
+[enter: ;]
+[enter: ;]
+[space: 3;]Jak [url: https://drive.google.com/file/d/1ARr5s1WSY3xlbzdn1qH33z5CVDWWYJol/view; przeciwdziałać COVID-19 Coronavirus] w codziennym życiu !
+[enter: ;]
+},{
 2020-10-25;7
 [enter: ;]
 [space: 15;]#77,760,000[space: 1;][emot: fas fa-heart; our_color][space: 1;]#1,250,100[space: 2;]=>[space: 2;]The blink of the diamond.
