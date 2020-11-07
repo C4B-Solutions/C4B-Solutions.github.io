@@ -1,4 +1,12 @@
 {
+2020-11-07;18
+[enter: ;]
+[enter: ;]
+[space: 3;]The time has come to let you know about who is [url: https://github.com/C4B-Solutions/The-Family-Blog-Official/blob/master/family/posts/1.bio_of_Katie.md#who-is-katie-; Katie Dąbrowska] ? 🙂
+[enter: ;]
+[image-image: https://c4b-solutions.github.io/clever_code/main/V/images/core/star.png;]
+[enter: ;]
+},{
 2020-10-30;30
 [enter: ;]
 [enter: ;]
