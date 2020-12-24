@@ -1,4 +1,17 @@
 {
+2020-12-24;7
+[enter: ;]
+[enter: ;]
+[space: 3;] Wszystkim osobom i sobie też - z okazji tegorocznych Świąt Bożego Narodzenia - życzę dużo normalności 🙂 !
+[enter: ;]
+[space: 3;] Oraz dużo energii, aby walczyć o swoje wartości (czyli o to, na czym każdemu zależy najbardziej) 😊 !
+[enter: ;]
+[enter: ;]
+[space: 15;] Łukasz Dąbrowski [space: 4;] -> 🙂 -> [space: 4;] [url: https://www.youtube.com/watch?v=DlTW8KvJl5Y; Zenon Martyniuk - Leć kolędo w świat - Official Video 2017]
+[enter: ;]
+[enter: ;]
+},
+{
 2020-11-07;18
 [enter: ;]
 [enter: ;]
