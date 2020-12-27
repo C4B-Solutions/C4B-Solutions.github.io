@@ -6,9 +6,9 @@ Wykreowanie w zawodzie Professional Dancer’a takiej osoby jak Team Leader zesp
 [enter: ;]
 /*
  [enter: ;]
- *[space: 3;]Nasuwa mi się skojarzenie z filmem [ Step Up. Taniec Zmysłów. ], czyli osoba, która technicznie wybija się ponad pozostałych PDs.
+ *[space: 3;]Nasuwa mi się skojarzenie z filmem [ Step Up. Taniec Zmysłów. ], czyli osoba która technicznie wybija się ponad pozostałych PDs.
  [enter: ;]
- *[space: 3;]Brawo dla osoby, która ma takie myślenie.
+ *[space: 3;]Brawo dla osoby która ma takie myślenie.
  [enter: ;]
  *[space: 3;]Andżelika pozwoliła mi tak napisać !
  [enter: ;]
