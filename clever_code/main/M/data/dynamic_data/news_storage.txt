@@ -1,4 +1,24 @@
 {
+2021-01-17;25
+[enter: ;]
+[space: 3;] Kim jest Ania ? 🙂
+[enter: ;]
+[enter: ;]
+[space: 3;] Ania [url: https://drive.google.com/file/d/1uFmByORPydk9AshnqF9boacbAn7MK1WG/view?usp=sharing; jest bardzo piękną kobietą], z zawodu zajmującą się aktywnie profesjonalnym tańcem,
+[enter: ;]
+[space: 3;] a na codzień pracującą w [url: https://www.facebook.com/grupavolt/Volt; formacji tanecznej Volt], najbardziej znanej grupie tanecznej w Polsce !
+[enter: ;]
+[enter: ;]
+[space: 3;]/**
+ [enter: ;]
+ [space: 4;]*[space: 3;]Ania będzie z nami współpracować przy wielu ciekawych projektach !
+ [enter: ;]
+ [space: 4;]*[space: 3;]Z nami, tj. z Andżeliką i  mną.
+ [enter: ;]
+[space: 3;]*/
+[enter: ;]
+[enter: ;]
+},{
 2020-12-27;5
 [enter: ;]
 Wykreowanie w zawodzie Professional Dancer’a takiej osoby jak Team Leader zespołu jest bardzo dobrym pomysłem 🙂.
