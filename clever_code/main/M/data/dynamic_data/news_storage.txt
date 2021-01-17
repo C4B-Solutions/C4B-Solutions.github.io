@@ -6,7 +6,7 @@
 [enter: ;]
 [space: 3;] Ania [url: https://drive.google.com/file/d/1uFmByORPydk9AshnqF9boacbAn7MK1WG/view?usp=sharing; jest bardzo piękną kobietą], z zawodu zajmującą się aktywnie profesjonalnym tańcem,
 [enter: ;]
-[space: 3;] a na codzień pracującą w [url: https://www.facebook.com/grupavolt/Volt; formacji tanecznej Volt], najbardziej znanej grupie tanecznej w Polsce !
+[space: 3;] a na co dzień pracującą w [url: https://www.facebook.com/grupavolt/Volt; formacji tanecznej Volt], najbardziej znanej grupie tanecznej w Polsce !
 [enter: ;]
 [enter: ;]
 [space: 3;]/**
