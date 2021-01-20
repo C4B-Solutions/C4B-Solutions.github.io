@@ -1,4 +1,13 @@
 {
+2021-01-21;2
+[enter: ;]
+[enter: ;]
+[space: 3;]Jako obywatel chciałbym aby Pan Andrzej Duda ustąpił z urzędu Prezydenta RP !
+[enter: ;]
+[enter: ;]
+[space: 3;]Powody mam jakże bardzo osobiste, tj. kwestia kim są piękne kobiety !
+[enter: ;]
+},{
 2021-01-20;30
 Learning Italian - books for me personally & oversaw by [url: https://drive.google.com/file/d/1uFmByORPydk9AshnqF9boacbAn7MK1WG/view?usp=sharing; Ania]. We recommend !
 [enter: ;]
