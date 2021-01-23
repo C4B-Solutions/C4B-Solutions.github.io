@@ -1,11 +1,17 @@
 {
-2021-01-21;2
+2021-01-23;30
+Must-have books to read. We recommend !
 [enter: ;]
 [enter: ;]
-[space: 3;]Jako obywatel chciałbym aby Pan Andrzej Duda ustąpił z urzędu Prezydenta RP !
+1. Sekret: [url: https://www.amazon.co.uk/Sekret-Mark-Miller/dp/8360652260; Tajemnica wielkich liderów] (Polish) Hardcover – 1 Jan. 2008
 [enter: ;]
+2. Nowy [url: https://www.amazon.com/Jednominutowy-Menedzer-Spencer-Johnson-Blanchard/dp/8377469448; Jednominutowy Menedzer] (Polish) Paperback – January 1, 2015
 [enter: ;]
-[space: 3;]Powody mam jakże bardzo osobiste, tj. kwestia kim są piękne kobiety !
+3. [url: https://www.amazon.co.uk/Tak-czy-nie-Johnson-Spencer/dp/8387025879; Tak czy nie (Polish)] Paperback – 1 Jan. 2017
+[enter: ;]
+4.
+[enter: ;]
+[space: 3;] [url: https://www.amazon.co.uk/Jednominutowa-matka-Spencer-Johnson/dp/8388931369; Jednominutowa matka] (Polish) Paperback[space: 3;] | [space: 3;][url: https://www.amazon.com/One-Minute-Father/dp/0688144055; The One Minute Father] Paperback – October 16, 1995
 [enter: ;]
 },{
 2021-01-20;30
