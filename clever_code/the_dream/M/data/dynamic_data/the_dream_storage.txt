@@ -78,6 +78,6 @@ Np. ostatni tydzień listopada + pierwszy tydzień grudnia ! (ponieważ klient w
 },
 {
 <span class="titleBeginingMarker">>> </span>[the real thing: Projekt Lepsza Informatyka !]...
-<span class="official_description">Projekt Lepsza Informatyka !</span> -> [url: https://github.com/C4B-Solutions-Lab/Blog/blob/master/programming/posts/11.lepsza_informatyka.md#start-small-; Projekt Lepsza Informatyka !]
-07-june-2021 3:41 PM GMT +0000
+[url: https://github.com/C4B-Solutions-Lab/Blog/blob/master/programming/posts/11.lepsza_informatyka.md#start-small-; Projekt Lepsza Informatyka !]
+07-june-2021 3:45 PM GMT +0000
 }
