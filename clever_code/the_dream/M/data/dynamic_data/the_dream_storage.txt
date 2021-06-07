@@ -75,4 +75,9 @@ Meritum powyższej wypowiedzi jest takie a nie inne, a mianowicie, im szybciej d
 Jest to okres 2 tygodni roboczych, które pracodawca ma obowiązek udzielić pracownikowi jako czas wolny od pracy !
 Np. ostatni tydzień listopada + pierwszy tydzień grudnia ! (ponieważ klient wraca z miesięcznych całolipcowych wakacji na Seszelach i chce dostać projekt w wersji GA).
 21-march-2020 1:43 PM GMT +0000
+},
+{
+<span class="titleBeginingMarker">>> </span>[the real thing: Projekt Lepsza Informatyka !]...
+<span class="official_description">[url: https://github.com/C4B-Solutions-Lab/Blog/blob/master/programming/posts/11.lepsza_informatyka.md#start-small-; Projekt Lepsza Informatyka !]</span>
+07-june-2021 3:33 PM GMT +0000
 }
