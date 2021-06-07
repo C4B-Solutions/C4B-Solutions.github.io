@@ -79,5 +79,5 @@ Np. ostatni tydzień listopada + pierwszy tydzień grudnia ! (ponieważ klient w
 {
 <span class="titleBeginingMarker">>> </span>[the real thing: Projekt Lepsza Informatyka !]...
 <a class="custom_link" href="https://github.com/C4B-Solutions-Lab/Blog/blob/master/programming/posts/11.lepsza_informatyka.md#start-small-" target="_blank">Projekt Lepsza Informatyka</a>
-07-june-2021 3:48 PM GMT +0000
+07-june-2021 4:10 PM GMT +0000
 }
