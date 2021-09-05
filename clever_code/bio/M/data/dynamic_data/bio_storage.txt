@@ -70,10 +70,8 @@ In general, C4B Solutions is about changing for better on a wider scale !
 [enter: ;]
 C4B Solutions is not a company !
 C4B Solutions is the idea not for sale !
-Updated in April 2019
 }
 [enter: ;]
 <span class="bioUpdate">05-09-2021 update</span>
 C4B Solutions were already converted to Open Source Solutions Initiative !
-Updated in September 2021
 }
