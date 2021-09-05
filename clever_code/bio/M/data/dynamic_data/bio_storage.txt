@@ -57,10 +57,6 @@ This project connecting these two algorithms were finished on 04-04-2017, i.e. p
 In the so-called meantime I worked on my website, and was planing for next stuff in general.
 [enter: ;]
 <span class="bioUpdate">07-11-2018 update</span>
-You are a joke !!
-What about my algorithms? Nothing changed. For sure other stuff that will follow the 3rd algorithm, that is currently looming on the horizon of my mind.
-[enter: ;]
-<span class="bioUpdate">07-11-2018 update</span>
 Since departure from Krakow I've added a couple of new features.
 To be honest haven't thought that I would arrive with my web development where I've arrived so far :-).
 [enter: ;]
