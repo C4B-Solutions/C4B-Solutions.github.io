@@ -57,10 +57,6 @@ This project connecting these two algorithms were finished on 04-04-2017, i.e. p
 In the so-called meantime I worked on my website, and was planing for next stuff in general.
 [enter: ;]
 <span class="bioUpdate">07-11-2018 update</span>
-Since departure from Krakow I've added a couple of new features.
-To be honest haven't thought that I would arrive with my web development where I've arrived so far :-).
-[enter: ;]
-<span class="bioUpdate">07-11-2018 update</span>
 August 2018 has ended and Software Development of Better Tomorrow has been kind of shut down !
 Not entirely, because I came to realize it did its job more than quite well, and it was right time to come up with something even bigger !
 This is why I converted my idea of developing software for better tomorrow into something more general and more powerful.
