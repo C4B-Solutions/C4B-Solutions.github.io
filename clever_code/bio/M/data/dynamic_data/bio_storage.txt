@@ -80,5 +80,5 @@ C4B Solutions is the idea not for sale !
 [enter: ;]
 <span class="bioUpdate">05-09-2021 update</span>
 C4B Solutions were already converted to Open Source Solutions Initiative !
-Updated -> September 2021
+Updated in September 2021
 }
