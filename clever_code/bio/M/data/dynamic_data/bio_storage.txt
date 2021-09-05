@@ -63,11 +63,6 @@ What about my algorithms? Nothing changed. For sure other stuff that will follow
 <span class="bioUpdate">07-11-2018 update</span>
 Since temporary departure from Krakow I've added a couple of new features.
 To be honest haven't thought that I would arrive with my web development where I've arrived so far :-).
-Now as of this writing I am awaiting this mind-blowing job offer, which is unofficially called "For the Future of My Family".
-My work attitude is well-known. The "next employer" attitude was thoroughly understood.
-[enter: ;]
-<span class="bioUpdate">26-12-2017 update</span>
-"Future of My Family" && "Future of Others' Families" does matter.
 [enter: ;]
 <span class="bioUpdate">07-11-2018 update</span>
 August 2018 has ended and Software Development of Better Tomorrow has been kind of shut down !
@@ -84,4 +79,9 @@ In general, C4B Solutions is about changing for better on a wider scale !
 C4B Solutions is not a company !
 C4B Solutions is the idea not for sale !
 Updated in April 2019
+}
+[enter: ;]
+<span class="bioUpdate">05-09-2021 update</span>
+C4B Solutions were already converted to Open Source Solutions Initiative !
+Updated in September 2021
 }
