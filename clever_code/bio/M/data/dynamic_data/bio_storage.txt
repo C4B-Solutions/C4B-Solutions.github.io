@@ -55,13 +55,17 @@ For that please refer to both algorithms JSON2SQL & coming shortly SQL2JSON on m
 Since around April 2016 on daily basis I was actively working on algorithms translating directly JSON data to T-SQL table data & T-SQL table data directly to JSON data.
 This project connecting these two algorithms were finished on 04-04-2017, i.e. publicly available for commercial use.
 In the so-called meantime I worked on my website, and was planing for next stuff in general.
+
 [enter: ;]
+
 <span class="bioUpdate">07-11-2018 update</span>
 August 2018 has ended and Software Development of Better Tomorrow has been kind of shut down !
 Not entirely, because I came to realize it did its job more than quite well, and it was right time to come up with something even bigger !
 This is why I converted my idea of developing software for better tomorrow into something more general and more powerful.
 This was the time of coming up with this brand new idea called C4B Solutions !
+
 [enter: ;]
+
 C4B Solutions is not only about programming, but also about IT on a wider scale !
 C4B Solutions is not only about IT, but also about right solutions on a wider scale !
 C4B Solutions is not only about right solutions, but also about right decisions on a wider scale !
@@ -69,6 +73,7 @@ C4B Solutions is not only about right decisions, but also about right attitude o
 In general, C4B Solutions is about changing for better on a wider scale !
 
 [enter: ;]
+
 C4B Solutions is not a company !
 C4B Solutions is the idea not for sale !
 
