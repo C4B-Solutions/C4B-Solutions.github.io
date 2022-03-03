@@ -81,4 +81,9 @@ C4B Solutions is the idea not for sale !
 <span class="bioUpdate">05-09-2021 update</span>
 C4B Solutions were already converted to Open Source Solutions Initiative !
 Updated in September 2021
+
+[enter: ;]
+<span class="bioUpdate">03-03-2022 update</span>
+Back in commercial software development since October 2021 !
+Updated in March 2022
 }
