@@ -4,5 +4,5 @@ Tosia (Antonina); Dębno, Ożarów County, Świętokrzyskie Voivodeship, Poland;
 },
 {
 Here I live.;Batalionów Chłopskich, 01-307 Warszawa, Mazowieckie;
-Łukasz (Lucas); Bemowo/Chrzanow, Warsaw, Masovian Voivodeship, Poland; Lucas.png;
+Łukasz (Lucas); Bemowo/Batalionów Chłopskich, Warsaw, Masovian Voivodeship, Poland; Lucas.png;
 }
