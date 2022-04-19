@@ -3,6 +3,6 @@ Here is the family home of Beata, the mum of Antonina !<br />Antonina is registe
 Tosia (Antonina); Dębno, Ożarów County, Świętokrzyskie Voivodeship, Poland; Tony.png;
 },
 {
-Here I live.;Batalionów Chłopskich, 01-307 Warszawa, Mazowieckie;
+Here I live - Bemowo/Chrzanow, Warsaw.;Batalionów Chłopskich, 01-307 Warszawa, Mazowieckie;
 Łukasz (Lucas); Bemowo/Chrzanow, Warsaw, Masovian Voivodeship, Poland; Lucas.png;
 }
