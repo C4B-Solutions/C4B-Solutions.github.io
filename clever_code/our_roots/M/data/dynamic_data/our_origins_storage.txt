@@ -1,5 +1,5 @@
 {
-Here is the home of Antonina !<br />She lives here with her mom.;Glinnik, 21-143 Abramów, Lubelskie;
+Here is the home of Antonina.<br />She lives here with her mom.;Glinnik, 21-143 Abramów, Lubelskie;
 Tosia (Antonina); Glinnik, Lubartów County, Lubelskie Voivodeship, Poland; Tony.png;
 },
 {
